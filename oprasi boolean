@@ -1,0 +1,13 @@
+# Membuat output dari operasi dasar python
+print(a+b) # Untuk operasi penjumlahan
+print(a-b) # Untuk operasi pengurangan
+print(a*b) # Untuk operasi perkalian
+print(a/b) # Untuk operasi pembagian (hasil dapat berupa bilangan desimal)
+print(a//b) # Untuk operasi pembagian (hasil hanya berupa bilangan bulat)
+print(a%b) # Untuk mencari sisa dari operasi pembagian # Membuat tabel kebenaran
+# Tabel kebenaran AND
+print("p =", True, ", q =", True, "=> p AND q =", True and True)
+print("p =", True, ", q =", False, "=> p AND q =", True and False)
+print("p =", False, ", q =", True, "=> p AND q =", False and True)
+print("p =", False, ", q =", False, "=> p AND q =", False and False)
+
